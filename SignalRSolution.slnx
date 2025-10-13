@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Client/Client.csproj" />
+  <Project Path="IOSClient/IOSClient.csproj" Id="bdf8ee7b-12b3-484f-a4ef-aa75691b4be6">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="Server/Server.csproj" />
+</Solution>
