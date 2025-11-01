@@ -1,0 +1,6 @@
+﻿This template is pre-configured to use xUnit as the testing framework.
+To add xUnit tests to your project, follow these steps:
+1. **Create a Test Project**:
+   - In your solution, add a new project specifically for your tests. You can do this by right-clicking on the solution in Visual Studio, selecting "Add" > "New Project", and then choosing "xUnit Test Project".
+   2. **Add References**:
+   - Ensure that your test project references the main project you want to test. You can do this by right-clicking on the "Dependencies" node of your test project, selecting "Add Reference", and then choosing your main project.
